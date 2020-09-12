@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696242892675",
+    "firebase_url": "https://time-table-fd578.firebaseio.com",
+    "project_id": "time-table-fd578",
+    "storage_bucket": "time-table-fd578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696242892675:android:8caa90701077d753d690b6",
+        "android_client_info": {
+          "package_name": "com.example.timetable2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696242892675-blh2e9fhapvnna1rjvqq0g2r9diqn70r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timetable2",
+            "certificate_hash": "f74a290e8ff2167d6b5ec2aa34a7ebcfd9c747fc"
+          }
+        },
+        {
+          "client_id": "696242892675-ev3ogra7230p3uqot5mt9ni8j8o878cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzr24eLjI5eJ-rbwHcZxqXvLyQza0odSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696242892675-ev3ogra7230p3uqot5mt9ni8j8o878cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
