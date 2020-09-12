@@ -88,7 +88,7 @@ public class Diet extends AppCompatActivity {
 
                 break;
             case "Saturday":
-                bf1.setText("1)");
+                bf1.setText("1) ");
                 bf2.setText("2)");
                 l1.setText("1)");
                 l2.setText("2)");
